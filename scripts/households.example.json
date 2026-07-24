@@ -1,0 +1,11 @@
+[
+  { "flatId": "flat_1", "phoneNumber": "+919800000001", "email": "flat1@example.com", "displayName": "Flat 1" },
+  { "flatId": "flat_2", "phoneNumber": "+919800000002", "email": "flat2@example.com", "displayName": "Flat 2" },
+  { "flatId": "flat_3", "phoneNumber": "+919800000003", "email": "flat3@example.com", "displayName": "Flat 3" },
+  { "flatId": "flat_4", "phoneNumber": "+919800000004", "email": "flat4@example.com", "displayName": "Flat 4" },
+  { "flatId": "flat_5", "phoneNumber": "+919800000005", "email": "flat5@example.com", "displayName": "Flat 5" },
+  { "flatId": "flat_6", "phoneNumber": "+919800000006", "email": "flat6@example.com", "displayName": "Flat 6" },
+  { "flatId": "flat_7", "phoneNumber": "+919800000007", "email": "flat7@example.com", "displayName": "Flat 7" },
+  { "flatId": "flat_8", "phoneNumber": "+919800000008", "email": "flat8@example.com", "displayName": "Flat 8" },
+  { "flatId": "flat_9", "phoneNumber": "+919800000009", "email": "flat9@example.com", "displayName": "Flat 9" }
+]
